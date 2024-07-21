@@ -2,13 +2,9 @@
 
 ## Status
 
-Description: **In Development** 
-
-Solution: **In Development**
-
-| Description        | Solution           |
-|--------------------|--------------------|
-| **In Development** | **In Development** | 
+| Description      | Solution         |
+|------------------|------------------|
+| *In Development* | *In Development* | 
 
 
 > [!NOTE]  
