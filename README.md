@@ -1,6 +1,18 @@
 # {Title}
 
 ## Status
+Exercise description: **In Development**
+Example solution: **In Development**
+
+> [!NOTE]  
+> The possible statuses of exercise descriptions and example solutions are:
+> 
+>   1. **In Development**: Currently being developed and not ready for use.
+>   1. **Not Reviewed**: Available for use but has not been reviewed.
+>   1. **Reviewed**: Available for use and has been reviewed.
+
+> [!IMPORTANT]  
+> Exercises that are reviewed might still undergo changes, to ensure continuous improvement.
 
 ## Description
 ### Background
