@@ -6,17 +6,6 @@
 |------------------|------------------|
 | *In Development* | *In Development* | 
 
-<table>
-  <tr>
-    <th>Fruit</th>
-    <td>Banana</td>
-  </tr>
-  <tr>
-    <th>Vegetable</th>
-    <td>Carrot</td>
-  </tr>
-</table>
-
 > [!NOTE]  
 > The possible statuses of exercise descriptions and example solutions are:
 > 
