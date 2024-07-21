@@ -2,9 +2,8 @@
 
 ## Status
 
-| Description      | Solution         |
-|------------------|------------------|
-| *In Development* | *In Development* | 
+Description: *In Development*<br>
+Solution:    *In Development*
 
 > [!NOTE]  
 > The possible statuses of exercise descriptions and example solutions are:
