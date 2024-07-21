@@ -1,8 +1,15 @@
 # {Title}
 
 ## Status
-Description: **In Development**
+
+Description: **In Development** 
+
 Solution: **In Development**
+
+| Description        | Solution           |
+|--------------------|--------------------|
+| **In Development** | **In Development** | 
+
 
 > [!NOTE]  
 > The possible statuses of exercise descriptions and example solutions are:
