@@ -13,7 +13,7 @@ Solution:    *In Development*
 >   1. **Reviewed**: Available for use and has been reviewed.
 
 > [!IMPORTANT]  
-> Exercises that are reviewed might still undergo changes, to ensure continuous improvement.
+> Exercises that are reviewed might still undergo changes, to ensure continuous improvement. You can provide feedback by [opening an issue](https://github.com/elixirland/xlc-book-club/issues/new) or contributing to this repository's [discussions](https://github.com/elixirland/xlc-book-club/discussions).
 
 ## Description
 ### Background
