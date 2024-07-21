@@ -2,6 +2,7 @@
 
 ## Status
 Exercise description: **In Development**
+
 Example solution: **In Development**
 
 > [!NOTE]  
